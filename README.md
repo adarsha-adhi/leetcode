@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/adarsha-adhi/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/adarsha-adhi/leetcode/tree/master/2235-add-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/adarsha-adhi/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
