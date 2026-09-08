@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/adarsha-adhi/leetcode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adarsha-adhi/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsha-adhi/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adarsha-adhi/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsha-adhi/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/adarsha-adhi/leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarsha-adhi/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/adarsha-adhi/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/adarsha-adhi/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsha-adhi/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adarsha-adhi/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsha-adhi/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/adarsha-adhi/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarsha-adhi/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
