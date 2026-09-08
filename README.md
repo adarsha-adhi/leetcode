@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/adarsha-adhi/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/adarsha-adhi/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsha-adhi/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/adarsha-adhi/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/adarsha-adhi/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
