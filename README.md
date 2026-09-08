@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/adarsha-adhi/leetcode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/adarsha-adhi/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
