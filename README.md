@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adarsha-adhi/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adarsha-adhi/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/adarsha-adhi/leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/adarsha-adhi/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarsha-adhi/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
