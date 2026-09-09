@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adarsha-adhi/leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/adarsha-adhi/leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarsha-adhi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsha-adhi/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsha-adhi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
