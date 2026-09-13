@@ -8,11 +8,8 @@ class Solution {
         for(int i=0;i<word2.length;i++){
             ans2+=word2[i];
         }
-        if(ans1.equals(ans2)){
-            return true;
-        }else{
-            return false;
-        }
+        return (ans1.equals(ans2))?true:false;
+           
 
         
     }
