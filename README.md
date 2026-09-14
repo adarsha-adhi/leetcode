@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adarsha-adhi/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adarsha-adhi/leetcode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/adarsha-adhi/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/adarsha-adhi/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adarsha-adhi/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adarsha-adhi/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsha-adhi/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarsha-adhi/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
