@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarsha-adhi/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsha-adhi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarsha-adhi/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/adarsha-adhi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
