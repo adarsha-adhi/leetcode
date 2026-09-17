@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/adarsha-adhi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsha-adhi/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adarsha-adhi/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adarsha-adhi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adarsha-adhi/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/adarsha-adhi/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adarsha-adhi/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adarsha-adhi/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/adarsha-adhi/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
