@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adarsha-adhi/leetcode/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarsha-adhi/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsha-adhi/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adarsha-adhi/leetcode/tree/master/0125-valid-palindrome) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsha-adhi/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
