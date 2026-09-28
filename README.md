@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarsha-adhi/leetcode/tree/master/0125-valid-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsha-adhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarsha-adhi/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarsha-adhi/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsha-adhi/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/adarsha-adhi/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsha-adhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsha-adhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
