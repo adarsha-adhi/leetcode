@@ -1,0 +1,33 @@
+class Solution {
+    public boolean isValid(String s) {
+        Stack <Character> ans = new Stack<>();
+        for(int i =0; i<s.length();i++){
+            
+            if(s.charAt(i) =='(' ||s.charAt(i) =='['||s.charAt(i) =='{'){
+                ans.push(s.charAt(i));
+            }
+            else if(s.charAt(i) ==')' ||s.charAt(i) ==']'||s.charAt(i) =='}'){
+                if(ans.size()==0){
+                    return false;
+                }
+                char a = ans.pop();
+                if(s.charAt(i)==')'){
+                    if(a!='(')
+                    return false;
+                }else if(s.charAt(i)==']'){
+                    if(a!='[')
+                    return false;
+                }else if(s.charAt(i)=='}'){
+                    if(a!='{')
+                    return false;
+                }
+            }
+      
+        }
+        if(ans.size()==0){
+            return true ;
+        }else{
+            return false;
+        }
+    }
+}
