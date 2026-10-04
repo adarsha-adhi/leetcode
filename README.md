@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/adarsha-adhi/leetcode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsha-adhi/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/adarsha-adhi/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adarsha-adhi/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adarsha-adhi/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adarsha-adhi/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/adarsha-adhi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adarsha-adhi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adarsha-adhi/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/adarsha-adhi/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/adarsha-adhi/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsha-adhi/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsha-adhi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
