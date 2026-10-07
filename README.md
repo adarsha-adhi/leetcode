@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/adarsha-adhi/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsha-adhi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adarsha-adhi/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/adarsha-adhi/leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/adarsha-adhi/leetcode/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adarsha-adhi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarsha-adhi/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adarsha-adhi/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adarsha-adhi/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/adarsha-adhi/leetcode/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/adarsha-adhi/leetcode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsha-adhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adarsha-adhi/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adarsha-adhi/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
